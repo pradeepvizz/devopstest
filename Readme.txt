@@ -1,1 +1,1 @@
-asdasdasdThis is the GIT Readme
+This is the GIT Readme
